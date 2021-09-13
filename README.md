@@ -8,7 +8,7 @@
 </div>
 
 <div>
-    <img src="https://images.vexels.com/media/users/3/166470/isolated/lists/73835fa38fba6d35aff9de603dc5044a-icone-da-linguagem-de-programacao-php.png" width="20">
+    <img src="https://images.vexels.com/media/users/3/166470/isolated/lists/73835fa38fba6d35aff9de603dc5044a-icone-da-linguagem-de-programacao-php.png" width="70">
 </div>
   
 ![Snake animation](https://github.com/Drako-Dev/Drako-Dev/blob/output/github-contribution-grid-snake.svg)
