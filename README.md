@@ -13,6 +13,7 @@
     <img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" width="30">
     <img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" width="30">
     <img src="https://seeklogo.com/images/J/java-script-js-logo-ACF4AE5082-seeklogo.com.png" width="30">
+    <img src="https://seeklogo.com/images/L/laravel-logo-41EC1D4C3F-seeklogo.com.png" width="30">
     <img src="https://seeklogo.com/images/M/MySQL-logo-F6FF285A58-seeklogo.com.png" width="70">
 </div>
   
