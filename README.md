@@ -1,4 +1,4 @@
-  ## Ola sou Salim desenvolvedor de software e analista de segurança da informação.
+  ## Ola sou Salim, desenvolvedor de software e analista de segurança da informação.
   
 <div align="center">
   <a href="https://github.com/Drako-Dev">
