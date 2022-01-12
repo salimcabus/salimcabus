@@ -15,7 +15,7 @@
     <img src="https://seeklogo.com/images/L/laravel-logo-41EC1D4C3F-seeklogo.com.png" width="30">
     <img src="https://seeklogo.com/images/J/jquery-logo-BD35C03823-seeklogo.com.png" width="70">
     <img src="https://seeklogo.com/images/M/MySQL-logo-F6FF285A58-seeklogo.com.png" width="70">
-    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i1.wp.com/www.quibesurdo.com.br/imagens/entretenimento/animais/gato-no-computador-com-direito-a-usar-oculos-ainda-confira.jpg">
 </div>
   
   ##
