@@ -15,7 +15,7 @@
     <img src="https://seeklogo.com/images/L/laravel-logo-41EC1D4C3F-seeklogo.com.png" width="30">
     <img src="https://seeklogo.com/images/J/jquery-logo-BD35C03823-seeklogo.com.png" width="70">
     <img src="https://seeklogo.com/images/M/MySQL-logo-F6FF285A58-seeklogo.com.png" width="70">
-    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/8d5c19dfb62fa4b425d6c01ddc4b2b1f/ddc5afeed3a62461-d4/s640x960/15d3aba1900217ebb72056675777ccb7c722f612.jpg">
+    <img align="right" alt="Rafa-pic" height="150" style="border-radius:60px;" src="https://64.media.tumblr.com/8d5c19dfb62fa4b425d6c01ddc4b2b1f/ddc5afeed3a62461-d4/s640x960/15d3aba1900217ebb72056675777ccb7c722f612.jpg">
 </div>
   
   ##
