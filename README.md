@@ -7,7 +7,7 @@
 </div>
   
 <div style="display: inline_block"><br>
-    <img src="https://images.vexels.com/media/users/3/166470/isolated/lists/73835fa38fba6d35aff9de603dc5044a-icone-da-linguagem-de-programacao-php.png" width="40">
+    <img src="https://images.vexels.com/media/users/3/166470/isolated/lists/73835fa38fba6d35aff9de603dc5044a-icone-da-linguagem-de-programacao-php.png" width="45">
     <img src="https://images.vexels.com/media/users/3/166477/isolated/lists/9bb722f0e85ddbc1ce0f064534fd2311-icone-da-linguagem-de-programacao-python.png" width="40">
     <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="35">    
     <img src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png" width="35">  
