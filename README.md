@@ -1,11 +1,4 @@
   ## Ola sou Salim, desenvolvedor de software e analista de segurança da informação.
-  
-<div align="center">
-  <a href="https://github.com/Drako-Dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Drako-Dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drako-Dev&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
 <div style="display: inline_block"><br>
     <img src="https://images.vexels.com/media/users/3/166470/isolated/lists/73835fa38fba6d35aff9de603dc5044a-icone-da-linguagem-de-programacao-php.png" width="45">
     <img src="https://images.vexels.com/media/users/3/166477/isolated/lists/9bb722f0e85ddbc1ce0f064534fd2311-icone-da-linguagem-de-programacao-python.png" width="40">
